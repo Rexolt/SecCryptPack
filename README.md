@@ -13,7 +13,10 @@ SecCryPack is a Python package providing a comprehensive collection of encryptio
 ## 🚀 Installation
 
 ```bash
-pip install seccrypack
+# Navigate to the installed folder and type "cmd" into the address bar.
+# Then run the following command to install:
+
+python setup.py install
 ```
 ## 📚Usage
 ```bash
