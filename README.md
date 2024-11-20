@@ -1,4 +1,4 @@
-# 🛡️ SecCryPack
+# 🛡️ SecCryptPack
 
 SecCryPack is a Python package providing a comprehensive collection of encryption methods for secure communication. Whether you're a security enthusiast or a developer looking to implement robust encryption in your applications, SecCryPack has you covered.
 
